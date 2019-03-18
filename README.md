@@ -15,3 +15,6 @@ In this repository I will document my effort while trying to learn the PIC24F de
 1. <a href="https://www.microchip.com/mplab/mplab-x-ide"> Microchip MPLABX IDE</a>
 2. <a href= "https://www.microchip.com/mplab/microchip-libraries-for-applications"> Microchip MLA library </a>
 3. External memory programmer (found within MLA)
+ 
+ 
+ For next steps, headover to the wiki.
