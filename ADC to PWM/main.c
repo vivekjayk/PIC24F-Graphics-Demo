@@ -66,7 +66,7 @@ int main(void)
     
     while (1)
     {
-        // Add your application code
+        // Read the ADC input from Potentiometer
        while(!ADC1_IsConversionComplete());
         value = ADC1_ConversionResultGet();
 
@@ -74,6 +74,7 @@ int main(void)
         //Map from 0,1024 to 0,0xFFFF
         LED_brightness = map(value, 0, 1024, 0, 5000);
         
+	 //Set the duty cycle of the LED
         OC1_PrimaryValueSet(LED_brightness);
        
        
