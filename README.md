@@ -20,4 +20,3 @@ In this repository I will add all the demos I create for the PIC24FJ256DA210 dev
 
  
  
- For next steps, headover to the wiki.
