@@ -14,8 +14,9 @@ In this repository I will add all the demos I create for the PIC24FJ256DA210 dev
 <Strong>Software required :</Strong>
 1. <a href="https://www.microchip.com/mplab/mplab-x-ide"> Microchip MPLABX IDE</a>
 2. <a href= "https://www.microchip.com/mplab/microchip-libraries-for-applications"> Microchip MLA library </a>
-3. External memory programmer (found within MLA)
-4. Coolterm or any similar terminal application.
+3. Microchip Code configurator add-on to MPLABX IDE
+4. External memory programmer (found within MLA)
+5. Coolterm or any similar terminal application.
 
  
  
