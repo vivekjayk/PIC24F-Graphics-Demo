@@ -1,7 +1,7 @@
 # PIC24F-Development-Kit-Apps
 Testing the PIC24FJ256DA210 Graphics development board
 
-In this repository I will document my effort while trying to learn the PIC24F development for GUI design on an LCD TFT
+In this repository I will add all the demos I create for the PIC24FJ256DA210 development kit.
 
 <Strong>Hardware required for the demo:</Strong>
   1. <a href="https://new.microchipdirect.com/product/pg164140?gclid=Cj0KCQjwg73kBRDVARIsAF-kEH8zjr_kD2UgtNTOC2x0AVyMjMjDtv0mgtlPKLd2ldiQa1hDj87Ev9UaAkqCEALw_wcB">PICKIT 4 or similiar programming/debugging tool:</a> 
