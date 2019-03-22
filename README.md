@@ -1,4 +1,4 @@
-# PIC24F-Development-Kit-Apps
+# PIC24F-J256DA210-Development-Kit-Apps
 Testing the PIC24FJ256DA210 Graphics development board
 
 In this repository I will add all the demos I create for the PIC24FJ256DA210 development kit.
